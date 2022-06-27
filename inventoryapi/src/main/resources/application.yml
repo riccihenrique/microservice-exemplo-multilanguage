@@ -1,0 +1,7 @@
+spring:
+    datasource:
+        password: senhasegura
+        url: jdbc:postgresql://localhost:5432/teste
+        username: postgres
+    jpa:
+        database: postgresql
